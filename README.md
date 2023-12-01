@@ -11,8 +11,6 @@ I passed all the tests in the notebook and fixed minor errors in the original no
 - [x] Lab2
 - [x] Lab3
 - [x] Lab4
-      
-TODO:
-- [ ] Lab5
+- [x] Lab5
 
 Many thanks to Professor Song Han for sharing the resources so that all students can access such an excellent course.
