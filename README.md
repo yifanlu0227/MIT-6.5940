@@ -117,4 +117,4 @@ all_techniques, 177.613007, 17.761000, 10, 14.759280
 ![linux](assets/Lab5-Linux-thread64.gif)
 
 ## Acknowledge
-Many thanks to Professor Song Han for sharing suching an excellent course!
+Many thanks to Professor Song Han for sharing such an excellent course!
